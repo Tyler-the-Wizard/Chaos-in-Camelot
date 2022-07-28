@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  },
+  "name": "chaos-in-camelot",
+  "description": "A multiplayer game based on Avalon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyler-the-Wizard/Chaos-in-Camelot.git"
+  },
+  "author": "Tyler the Wizard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tyler-the-Wizard/Chaos-in-Camelot/issues"
+  },
+  "homepage": "https://github.com/Tyler-the-Wizard/Chaos-in-Camelot#readme"
+}
